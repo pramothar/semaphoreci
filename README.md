@@ -55,6 +55,7 @@ $ php artisan serve
 
 We have a CI pipeline that:
 
+
 - Install dependencies.
 - Runs code analisys tests.
 - Runs integration and browser tests.
